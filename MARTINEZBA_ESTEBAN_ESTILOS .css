@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+P{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	color:#333333;
+	line-height:18px;
+	padding:3px;
+	text-align:justify;
+
+}
+.cursiva{
+	font-style:italic;
+	margin-left:2px;
+	line-height:14px;
+	color:#1E90FF;
+	
+}.resaltado {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #222222;
+}
+
+.TITULO{
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #1E3A8A;
+	text-align:center;
+	
+}
+
+.navegacion{
+	font-family:"Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #8CAEBD;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #FDD1A1;
+	display: block;
+	width:140px;
+	padding:8px;
+}
+.navegacion:hover{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #8CAEBD;
+	display: block;
+	width:140px;
+	padding:8px;
+}
+.center{
+	width: 800px;
+	margin:0 auto;
+}
+.normal{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	color:#333333;
+	line-height:18px;
+	padding:3px;
+	text-align:justify;
+}
+.table{
+  margin: auto;
+}
+.normalcontacto{
+	font-family:"Times New Roman", Times, serif;
+	font-size:11px;
+	color:#333333;
+	line-height:16px;
+	padding:3px;
+	text-align:justify;
+}
+.navegacion2{
+	font-family:"Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #fff;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #BAD3E0;
+	display: block;
+	width:140px;
+	padding:8px;
+	
+}
+.navegacion2:hover{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color:#4F7A8A ;
+	display: block;
+	width:140px;
+	padding:8px;
+}
